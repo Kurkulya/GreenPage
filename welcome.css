@@ -1,0 +1,8 @@
+.welcome_light-green-theme {
+    background-color: chartreuse;
+}
+.welcome {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

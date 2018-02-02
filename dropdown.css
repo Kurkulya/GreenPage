@@ -1,0 +1,10 @@
+.dropdown__link {
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown__link:hover {
+    background-color: #ddd
+}

@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+.footer_margin-top-m {
+    margin-top: 10px;
+}
+.footer_green-theme {
+    background-color: green;
+}

@@ -1,0 +1,20 @@
+.menu {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu-item__name {
+    align-self: center;
+}
+.menu-item:hover .menu-item__dropdown {
+    display: block;
+}
+.menu-item__dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 70px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}

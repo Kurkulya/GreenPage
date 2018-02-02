@@ -1,0 +1,32 @@
+.header {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.header_green-theme {
+    background-color: green;
+}
+.header_margin-bot-m {
+    margin-bottom: 10px;
+}
+.header__info {
+    height: 75%;
+    display: flex;
+}
+.header__menu {
+    height: 25%;
+}
+.header__menu_light-green-theme {
+    background-color: chartreuse;
+}
+.header__menu_margin-m {
+    margin: 10px;
+}
+.header__title {
+    height: 100%;
+    width: 95%;
+    justify-content: center;
+}
+.header__logo {
+    justify-content: end;
+}

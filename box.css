@@ -1,0 +1,13 @@
+.box {
+    max-width: 300px;
+    display: flex;
+    align-self: center;
+    flex-flow: wrap;
+}
+.box__photo {
+    max-width: 150px;
+    max-height: 150px;
+}
+.box__photo_margin-top-sm {
+    margin-top: 5px;
+}
