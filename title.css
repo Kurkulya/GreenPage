@@ -5,3 +5,7 @@
 .title__h1 {
     font-size: 40px;
 }
+
+.title__h1_shadow {
+    text-shadow: 2px 2px grey;
+}
