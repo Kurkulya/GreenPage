@@ -2,10 +2,11 @@
     display: flex;
 }
 .body_green-theme {
-    background-color: green;
+    background-color: lightgreen;
 }
 .body__welcome {
     width: 70%;
+    height: 400px;
     justify-content: flex-start;
 }
 .body_margin-m {
@@ -14,6 +15,7 @@
 }
 .body__photos {
     width: 30%;
+    height: 400px;
     justify-content: flex-end;
 }
 .body__welcome_margin-m {

@@ -1,23 +1,23 @@
 .header {
-    height: 20%;
+    height: 15%;
     display: flex;
     flex-direction: column;
 }
 .header_green-theme {
-    background-color: green;
+    background-color: lightgreen;
 }
 .header_margin-bot-m {
     margin-bottom: 10px;
 }
 .header__info {
-    height: 75%;
+    height: 70%;
     display: flex;
 }
 .header__menu {
-    height: 25%;
+    height: 30%;
 }
 .header__menu_light-green-theme {
-    background-color: chartreuse;
+    background-color: green;
 }
 .header__menu_margin-m {
     margin: 10px;
